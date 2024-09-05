@@ -13,3 +13,13 @@ codes accordingly. For example, a Python code used to generate the bifurcation d
 
 Task Provided by
 Marius Yamakou
+
+Task completed by
+Sl No.	  Name 	              Studon Id 	      Matriculation No.
+1.	Mirza Shaheen Iqubal	    fa50jyro	        22998316
+2. 	Yeasin Arafat Shampod	    an34ifuq	        23080363
+3.	Md Mainul Haque	          od41atam	        23003992
+4.	Md Sohan Sorker	          ac41ycar	        23074752
+5.	KM Rashedul Alam	        pi44ditu	        23008271
+6.	Symon Islam	              wy63care	        23088045
+
